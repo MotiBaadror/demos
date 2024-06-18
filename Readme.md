@@ -10,5 +10,5 @@ Make sure python environment is active an poetry installed
 ### Steps to run Demo
 
 1. To run any demo go to `local\{your_demo}` and run targeted script 
-2. `Launch localhost:7860`
+2. Launch url to browser `localhost:7860`
 '
