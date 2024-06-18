@@ -1,5 +1,5 @@
 ## Huggingface Demo Practice 
-Basic practice to start demo with simple
+Basic practice to start demo with simple huggingface demos 
 
 
 Make sure python environment is active an poetry installed 
