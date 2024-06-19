@@ -1,3 +1,3 @@
 from first_demo.audio_reverse import demo
 
-demo.launch()
+demo.launch(share=True)
